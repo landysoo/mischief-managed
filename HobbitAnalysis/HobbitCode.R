@@ -27,8 +27,8 @@ script_df <- data_frame(line=1:5, text=script_h)
 ###########################################################
 
 #Customise stop words 
-stop_words_hobbit <- data_frame(word = c('â', 'oi', 's', 'about', 'a', 'carefully', 'it', 'o_', 'oit', '_â', 'youâ', '"',
-                                         'll', 'itâ'), lexicon = rep('CUST', each =14))
+stop_words_hobbit <- data_frame(word = c('Ã¢', 'oi', 's', 'about', 'a', 'carefully', 'it', 'o_', 'oit', '_Ã¢', 'youÃ¢', '"',
+                                         'll', 'itÃ¢'), lexicon = rep('CUST', each =14))
 
 
 #Hobbit Book Tokenization
