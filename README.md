@@ -1,2 +1,5 @@
 # mischief-managed
-All projects made during my Business Analytics Master Degree. 
+
+This repository contains all the projects I did by myself or with my  teams during my Master in Business Analytics. 
+
+It includes Python, R, SQL, Tableu and Dashboards. 
